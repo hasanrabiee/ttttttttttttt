@@ -1,0 +1,22 @@
+.bootstrap_chat {
+
+  min-height: 100vh;
+}
+
+.bg-lounge{
+  background-color: rgb(168,168,168) !important;
+}
+
+.text-small {
+  font-size: 0.9rem;
+}
+
+.messages-box, .chat-box {
+  height: 510px;
+  overflow-x: scroll;
+}
+
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+

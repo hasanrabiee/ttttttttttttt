@@ -1,0 +1,153 @@
+
+
+
+
+.form-group form-control :after {
+    content:"*";
+    color:red;
+}
+a{
+    text-decoration: none !important;
+}
+.amitiss_back{
+    background-color: rgb(54,54,54,65%) !important;
+}
+section {
+    width: 100%;
+    height: 238px;
+    border: none;
+    overflow: hidden
+}
+
+.hidden_class, .make_hidden, .no-result, .results tr[visible=false] {
+    display: none
+}
+
+.scroll_box {
+    padding: 4px;
+    height: 300px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    text-align: justify
+}
+
+.remove_underline {
+    text-decoration: none !important
+}
+
+.user_active_menu {
+    background-color: #fff !important;
+    height: 44px;
+    margin-top: 1px;
+    padding: 2px 2px 2px 13px;
+    color: #fff
+}
+
+.active_company {
+    background-color: #696a6a !important
+}
+
+.nonoverflow {
+    word-wrap: break-word
+}
+
+.selected_booth {
+    border: 1px solid #fff
+}
+
+.selected_username {
+    background-color: #dddddddd !important
+}
+
+.custom-search-input {
+    border: none;
+    border-bottom: 2px solid #757575;
+    background: 0 0;
+    outline: 0;
+    padding-bottom: 5px;
+    min-width: 250px;
+    text-indent: 40px
+}
+
+.search-area, form {
+    display: inline-block
+}
+
+.search-icon {
+    font-size: 18px;
+    margin-right: -20px;
+    margin-top: 3px
+}
+
+.bill-header {
+    font-size: 12px;
+    text-align: center
+}
+
+.form-control:focus {
+    border-color: #25476a;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none
+}
+
+#trs-hd, .warning.no-result {
+    text-align: center
+}
+
+.bill-header.cs {
+    background-color: rgba(37, 71, 106, .56);
+    color: #fff
+}
+
+.counter {
+    padding: 8px;
+    color: #ccc
+}
+
+.fa.fa-warning {
+    font-size: 18px;
+    color: red
+}
+
+.search.form-control {
+    border-radius: 0 !important
+}
+
+.search-table-col {
+    margin-top: 100px
+}
+
+.text-center.float-right.d-lg-flex {
+    border-bottom: 2px solid #006d60;
+    line-height: 33px;
+    font-size: 23px
+}
+
+.amitiss-paragraph {
+    margin-right: 90px
+}
+
+.text-left {
+    text-decoration: none
+}
+
+.green-button {
+    background-color: #05c965 !important;
+    color: #fff !important
+}
+
+.active-menu {
+    background: #fff;
+    color: #545454
+}
+
+.active-page {
+    background: #fff !important;
+    color: #545454 !important
+}
+
+.active-page > a {
+    text-decoration: none !important;
+    color: #545454 !important
+}

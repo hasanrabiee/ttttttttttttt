@@ -1,0 +1,78 @@
+.text-center.float-right.d-lg-flex {
+  padding-bottom: -10px;
+  border-bottom: 2px solid #006d60;
+  line-height: 33px;
+  font-size: 23px;
+}
+
+.paragraph-signup {
+  /*text-decoration: underline;*/
+}
+
+.text-center.float-right.d-lg-flex.paragraph-signup {
+}
+
+div {
+  /*position: relative;*/
+  /*display: inline-block;*/
+}
+
+form {
+  display: inline-block;
+}
+
+.form-control.form-control-lg {
+}
+
+.form-control.form-control-lg {
+}
+
+.float-left {
+}
+
+a {
+  /*text-decoration: none;*/
+}
+
+.masthead h1 {
+  /*background-image: linear-gradient(to left, #8ea6a8, #9bb1b2, #a7bbbd, #b4c6c7, #c1d1d2);*/
+}
+
+.btn.btn-success.btn-block.btn-lg {
+}
+
+.amitiss-paragraph {
+  margin-right: 98px;
+}
+
+.amitiss-paragraph {
+  margin-right: 90px;
+}
+
+.text-left {
+  text-decoration: none;
+}
+
+.green-button {
+  background-color: #05c965 !important;
+  color: #ffffff !important;
+}
+
+.active-menu {
+  background: #ffffff;
+  color: #545454;
+}
+
+.active-page {
+  background: #ffffff !important;
+  color: #545454 !important;
+}
+
+.active-page > a {
+  text-decoration: none !important;
+  color: #545454 !important;
+}
+
+.deactive-page {
+}
+
